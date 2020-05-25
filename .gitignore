@@ -1,0 +1,6 @@
+.idea/
+*.py[cop]
+logs/
+migrations/
+目录说明.txt
+.qiniu*
